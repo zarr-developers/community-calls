@@ -16,7 +16,7 @@ Check out the Google Calendar for the meeting [here](https://calendar.google.com
 
 Download the [.ics](https://calendar.google.com/calendar/ical/c_ba2k79i3u0lkf49vo0jre27j14%40group.calendar.google.com/public/basic.ics) file and add it to your calendar so won't miss any of our meetings!
 
-## Contributing to ZEPs
+## Contributing to this repo
 
 The meeting notes in this repo are published automatically on the web @
 https://zarr.dev/community-calls/. If you wish to contribute to the website, please build
