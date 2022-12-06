@@ -19,6 +19,9 @@ Meeting info. for bi-weekly Zarr Community Calls.
 [Join here](https://zoom.us/j/300670033?pwd=OFhjV0FHQmhHK2FYbGFRVnBPMVNJdz09){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Agenda for the upcoming meeting](https://hackmd.io/tFcffc__QRuo1UdGcGUbsg?view){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+🧑🏻‍💻 Zarr community meetings are open, and everyone is welcome to join them! 👩🏾‍💻
+{: .fs-5 .fw-300 }
+
 ---
 
 Zarr community meetings take place every two weeks where maintainers,
